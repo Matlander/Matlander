@@ -1,10 +1,9 @@
 👋 Hi, I’m @Matlander — also known as Mathew 
 🌱 Visionary developer and storyteller using code, design, and action to empower local communities.
 
-👀 I’m interested in ...computer science  
-🌱 I’m currently learning ...Cypress and JavaScript  
-💞️ I’m looking to collaborate on ...QA  
-📫 How to reach me ...Ayebaremat@gmail.com
+👀 I’m interested in ....evolution in  tech  
+🌱 I’m currently learning ....machine learning 
+📫 How to reach me ...ayebaremat@gmail.com
 
 💻 What I'm Building  
 • UrbanNest — a platform connecting Kampala residents to smarter housing solutions  
